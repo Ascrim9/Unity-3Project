@@ -1,0 +1,1487 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: vrc_Hand Left
+  m_Mask: 00000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: BlendShapes
+    m_Weight: 0
+  - m_Path: Hips
+    m_Weight: 0
+  - m_Path: Hips/Hips_Sub_Root
+    m_Weight: 0
+  - m_Path: Hips/Hips_Sub_Root/L_Hip_Sub_00
+    m_Weight: 0
+  - m_Path: Hips/Hips_Sub_Root/L_Hip_Sub_00/L_Hip_Sub_01
+    m_Weight: 0
+  - m_Path: Hips/Hips_Sub_Root/L_Hip_Sub_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Hips_Sub_Root/L_Thigh_Sub_A_00
+    m_Weight: 0
+  - m_Path: Hips/Hips_Sub_Root/L_Thigh_Sub_A_00/L_Thigh_Sub_A_01
+    m_Weight: 0
+  - m_Path: Hips/Hips_Sub_Root/L_Thigh_Sub_A_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Hips_Sub_Root/L_Thigh_Sub_B_00
+    m_Weight: 0
+  - m_Path: Hips/Hips_Sub_Root/L_Thigh_Sub_B_00/L_Thigh_Sub_B_01
+    m_Weight: 0
+  - m_Path: Hips/Hips_Sub_Root/L_Thigh_Sub_B_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Hips_Sub_Root/R_Hip_Sub_00
+    m_Weight: 0
+  - m_Path: Hips/Hips_Sub_Root/R_Hip_Sub_00/R_Hip_Sub_01
+    m_Weight: 0
+  - m_Path: Hips/Hips_Sub_Root/R_Hip_Sub_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Hips_Sub_Root/R_Thigh_Sub_A_00
+    m_Weight: 0
+  - m_Path: Hips/Hips_Sub_Root/R_Thigh_Sub_A_00/R_Thigh_Sub_A_01
+    m_Weight: 0
+  - m_Path: Hips/Hips_Sub_Root/R_Thigh_Sub_A_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Hips_Sub_Root/R_Thigh_Sub_B_00
+    m_Weight: 0
+  - m_Path: Hips/Hips_Sub_Root/R_Thigh_Sub_B_00/R_Thigh_Sub_B_01
+    m_Weight: 0
+  - m_Path: Hips/Hips_Sub_Root/R_Thigh_Sub_B_Dummy
+    m_Weight: 0
+  - m_Path: Hips/L_Thigh
+    m_Weight: 0
+  - m_Path: Hips/L_Thigh/L_Knee
+    m_Weight: 0
+  - m_Path: Hips/L_Thigh/L_Knee/L_Ankle
+    m_Weight: 0
+  - m_Path: Hips/L_Thigh/L_Knee/L_Ankle/L_Toe
+    m_Weight: 0
+  - m_Path: Hips/L_Thigh/L_Knee_Sub_A_Dummy
+    m_Weight: 0
+  - m_Path: Hips/L_Thigh/L_Knee_Sub_Dummy
+    m_Weight: 0
+  - m_Path: Hips/L_Thigh/L_Thigh_Sub_Dummy
+    m_Weight: 0
+  - m_Path: Hips/L_Thigh/L_Thigh_Twist_00
+    m_Weight: 0
+  - m_Path: Hips/L_Thigh/L_Thigh_Twist_00/L_Knee_Sub_A_00
+    m_Weight: 0
+  - m_Path: Hips/L_Thigh/L_Thigh_Twist_00/L_Knee_Sub_A_00/L_Knee_Sub_A_01
+    m_Weight: 0
+  - m_Path: Hips/L_Thigh/L_Thigh_Twist_Dummy
+    m_Weight: 0
+  - m_Path: Hips/L_Thigh/L_Thigh_Twist_Dummy/L_Knee_Sub_00
+    m_Weight: 0
+  - m_Path: Hips/L_Thigh/L_Thigh_Twist_Dummy/L_Knee_Sub_00/L_Knee_Sub_01
+    m_Weight: 0
+  - m_Path: Hips/R_Thigh
+    m_Weight: 0
+  - m_Path: Hips/R_Thigh/R_Knee
+    m_Weight: 0
+  - m_Path: Hips/R_Thigh/R_Knee/R_Ankle
+    m_Weight: 0
+  - m_Path: Hips/R_Thigh/R_Knee/R_Ankle/R_Toe
+    m_Weight: 0
+  - m_Path: Hips/R_Thigh/R_Knee_Sub_A_Dummy
+    m_Weight: 0
+  - m_Path: Hips/R_Thigh/R_Knee_Sub_Dummy
+    m_Weight: 0
+  - m_Path: Hips/R_Thigh/R_Thigh_Sub_Dummy
+    m_Weight: 0
+  - m_Path: Hips/R_Thigh/R_Thigh_Twist_00
+    m_Weight: 0
+  - m_Path: Hips/R_Thigh/R_Thigh_Twist_00/R_Knee_Sub_A_00
+    m_Weight: 0
+  - m_Path: Hips/R_Thigh/R_Thigh_Twist_00/R_Knee_Sub_A_00/R_Knee_Sub_A_01
+    m_Weight: 0
+  - m_Path: Hips/R_Thigh/R_Thigh_Twist_Dummy
+    m_Weight: 0
+  - m_Path: Hips/R_Thigh/R_Thigh_Twist_Dummy/R_Knee_Sub_00
+    m_Weight: 0
+  - m_Path: Hips/R_Thigh/R_Thigh_Twist_Dummy/R_Knee_Sub_00/R_Knee_Sub_01
+    m_Weight: 0
+  - m_Path: Hips/Spine
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Chestring_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Chestring_00/Chestring_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Breast_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Breast_00/L_Breast_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Clavicle_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Clavicle_00/L_Clavicle_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Clavicle_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Deltroid_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Deltroid_00/L_Deltroid_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Deltroid_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Arm_Twist
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_Elbow_Twist_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_Elbow_Twist_00/L_Elbow_Twist_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_Hand
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_Hand/L_IndexProximal
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_Hand/L_IndexProximal/L_IndexIntermediate
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_Hand/L_IndexProximal/L_IndexIntermediate/L_IndexDistal
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_Hand/L_IndexProximal/L_IndexIntermediate/L_IndexDistal/L_IndexDistal_End
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_Hand/L_LittleFinger_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_Hand/L_LittleFinger_00/L_LittleFinger_00_End
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_Hand/L_LittleFinger_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_Hand/L_LittleProximal
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_Hand/L_LittleProximal/L_LittleIntermediate
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_Hand/L_LittleProximal/L_LittleIntermediate/L_LittleDistal
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_Hand/L_LittleProximal/L_LittleIntermediate/L_LittleDistal/L_LittleDistal_End
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_Hand/L_MiddleProximal
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_Hand/L_MiddleProximal/L_MiddleIntermediate
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_Hand/L_MiddleProximal/L_MiddleIntermediate/L_MiddleDistal
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_Hand/L_MiddleProximal/L_MiddleIntermediate/L_MiddleDistal/L_MiddleDistal_End
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_Hand/L_RingProximal
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_Hand/L_RingProximal/L_RingIntermediate
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_Hand/L_RingProximal/L_RingIntermediate/L_RingDistal
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_Hand/L_RingProximal/L_RingIntermediate/L_RingDistal/L_RingDistal_End
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_Hand/L_ThumbProximal
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_Hand/L_ThumbProximal/L_ThumbIntermediate
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_Hand/L_ThumbProximal/L_ThumbIntermediate/L_ThumbDistal
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_Hand/L_ThumbProximal/L_ThumbIntermediate/L_ThumbDistal/L_ThumbDistal_End
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_Hand_Sub_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_Hand_Sub_00/L_Hand_Sub_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Hand_Joint
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Hand_Joint/L_MB_Hand
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Hand_Joint/L_MB_Hand/L_MB_IndexFinger_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Hand_Joint/L_MB_Hand/L_MB_IndexFinger_01/L_MB_IndexFinger_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Hand_Joint/L_MB_Hand/L_MB_IndexFinger_01/L_MB_IndexFinger_02/L_MB_IndexFinger_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Hand_Joint/L_MB_Hand/L_MB_IndexFinger_01/L_MB_IndexFinger_02/L_MB_IndexFinger_03/L_MB_IndexFinger_End
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Hand_Joint/L_MB_Hand/L_MB_LittleFinger_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Hand_Joint/L_MB_Hand/L_MB_LittleFinger_00/L_MB_LittleFinger_00_End
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Hand_Joint/L_MB_Hand/L_MB_LittleFinger_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Hand_Joint/L_MB_Hand/L_MB_LittleFinger_01/L_MB_LittleFinger_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Hand_Joint/L_MB_Hand/L_MB_LittleFinger_01/L_MB_LittleFinger_02/L_MB_LittleFinger_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Hand_Joint/L_MB_Hand/L_MB_LittleFinger_01/L_MB_LittleFinger_02/L_MB_LittleFinger_03/L_MB_LittleFinger_End
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Hand_Joint/L_MB_Hand/L_MB_LittleFinger_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Hand_Joint/L_MB_Hand/L_MB_MiddleFinger_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Hand_Joint/L_MB_Hand/L_MB_MiddleFinger_01/L_MB_MiddleFinger_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Hand_Joint/L_MB_Hand/L_MB_MiddleFinger_01/L_MB_MiddleFinger_02/L_MB_MiddleFinger_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Hand_Joint/L_MB_Hand/L_MB_MiddleFinger_01/L_MB_MiddleFinger_02/L_MB_MiddleFinger_03/L_MB_MiddleFinger_End
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Hand_Joint/L_MB_Hand/L_MB_RingFinger_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Hand_Joint/L_MB_Hand/L_MB_RingFinger_01/L_MB_RingFinger_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Hand_Joint/L_MB_Hand/L_MB_RingFinger_01/L_MB_RingFinger_02/L_MB_RingFinger_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Hand_Joint/L_MB_Hand/L_MB_RingFinger_01/L_MB_RingFinger_02/L_MB_RingFinger_03/L_MB_RingFinger_End
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Hand_Joint/L_MB_Hand/L_MB_Thumb_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Hand_Joint/L_MB_Hand/L_MB_Thumb_01/L_MB_Thumb_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Hand_Joint/L_MB_Hand/L_MB_Thumb_01/L_MB_Thumb_02/L_MB_Thumb_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Hand_Joint/L_MB_Hand/L_MB_Thumb_01/L_MB_Thumb_02/L_MB_Thumb_03/L_MB_Thumb_End
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Joint_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Joint_01/L_MB_joint_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Joint_01/L_MB_joint_02/L_MB_Joint_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Joint_01/L_MB_joint_02/L_MB_Joint_03/L_MB_Joint_04
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Joint_01/L_MB_joint_02/L_MB_Joint_03/L_MB_Joint_04/L_MB_Joint_05
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Joint_01/L_MB_joint_02/L_MB_Joint_03/L_MB_Joint_04/L_MB_Joint_05/L_MB_Joint_06
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Joint_A_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Joint_A_01/L_MB_Joint_A_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Joint_A_01/L_MB_Joint_A_02/L_MB_Parts_06
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Joint_B_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Joint_B_01/L_MB_Joint_B_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Joint_C_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Joint_C_01/L_MB_Joint_C_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Joint_C_01/L_MB_Joint_C_02/L_MB_Joint_C_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Parts_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Parts_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Parts_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Parts_04
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Parts_05
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Parts_07
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Parts_07/L_MB_Parts_08
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Parts_09
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow/L_MB/L_MB_Parts_10
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow_Sub
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow_Sub/L_Elbow_sub_A_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow_Sub/L_Elbow_sub_A_00/L_Elbow_sub_A_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow_Sub/L_Elbow_sub_A_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow_Sub/L_Elbow_sub_B_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow_Sub/L_Elbow_sub_B_00/L_Elbow_sub_B_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow_Sub/L_Elbow_sub_B_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow_Sub/L_Elbow_sub_C_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow_Sub/L_Elbow_sub_C_00/L_Elbow_sub_C_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Elbow_Sub/L_Elbow_sub_C_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_MB_Arm_Twist
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Sleeve_Twist
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Sleeve_Twist/L_Arm_Ribbon_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Sleeve_Twist/L_Arm_Ribbon_00/L_Arm_Ribbon_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Sleeve_Twist/L_Arm_Ribbon_00/L_Arm_Ribbon_01/L_Arm_Ribbon_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Sleeve_Twist/L_Arm_Ribbon_00/L_Arm_Ribbon_01/L_Arm_Ribbon_02/L_Arm_Ribbon_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Sleeve_Twist/L_Sleeve_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Sleeve_Twist/L_Sleeve_00/L_Sleeve_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm/L_Sleeve_Twist/L_Sleeve_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Arm_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Shoulder_Sub_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Shoulder_Sub_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Sleeve_Sub_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder/L_Underarm_Sub_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Shoulder_Sub_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_ShoulderBlade_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_ShoulderBlade_00/L_ShoulderBlade_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_ShoulderBlade_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/L_Sleeve_Sub_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/BL_Hair_B_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/BL_Hair_C_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/BL_Hair_D_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/BR_Hair_C_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/BR_Hair_D_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Eye_L
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Eye_L/LeftEye
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Eye_L/LeftEye/L_Highlight_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Eye_L/LeftEye/L_Highlight_00/L_Highlight_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Eye_L/LeftEye/L_Iris_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Eye_L/LeftEye/L_Iris_00/L_Iris_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Eye_R
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Eye_R/RightEye
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Eye_R/RightEye/R_Highlight_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Eye_R/RightEye/R_Highlight_00/R_Highlight_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Eye_R/RightEye/R_Iris_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Eye_R/RightEye/R_Iris_00/R_Iris_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/B_Hair_A_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/B_Hair_A_00/B_Hair_A_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/B_Hair_A_00/B_Hair_A_01/B_Hair_A_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/B_Hair_A_00/B_Hair_A_01/B_Hair_A_02/B_Hair_A_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/B_Hair_A_00/B_Hair_A_01/B_Hair_A_02/B_Hair_A_03/B_Hair_A_04
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/B_Hair_A_00/B_Hair_A_01/B_Hair_A_02/B_Hair_A_03/B_Hair_A_04/B_Hair_A_05
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/B_Hair_A_00/B_Hair_A_01/B_Hair_A_02/B_Hair_A_03/B_Hair_A_04/B_Hair_A_05/B_Hair_A_06
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/B_Hair_A_00/B_Hair_A_01/B_Hair_A_02/B_Hair_A_03/B_Hair_A_04/B_Hair_A_05/B_Hair_A_06/B_Hair_A_07
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/BL_Hair_A_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/BL_Hair_A_00/BL_Hair_A_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/BL_Hair_A_00/BL_Hair_A_01/BL_Hair_A_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/BL_Hair_B_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/BL_Hair_B_00/BL_Hair_B_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/BL_Hair_C_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/BL_Hair_C_00/BL_Hair_C_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/BL_Hair_D_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/BL_Hair_D_00/BL_Hair_D_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/BR_Hair_A_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/BR_Hair_A_00/BR_Hair_A_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/BR_Hair_A_00/BR_Hair_A_01/BR_Hair_A_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/BR_Hair_B_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/BR_Hair_B_00/BR_Hair_B_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/BR_Hair_B_00/BR_Hair_B_01/BR_Hair_B_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/BR_Hair_C_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/BR_Hair_C_00/BR_Hair_C_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/BR_Hair_D_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/BR_Hair_D_00/BR_Hair_D_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/F_Hair_A_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/F_Hair_A_00/F_Hair_A_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/F_Hair_A_00/F_Hair_A_01/F_Hair_A_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/F_Hair_B_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/F_Hair_B_00/F_Hair_B_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/F_Hair_B_00/F_Hair_B_01/F_Hair_B_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/F_Hair_C_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/F_Hair_C_00/F_Hair_C_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/F_Hair_C_00/F_Hair_C_01/F_Hair_C_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/F_Hair_D_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/F_Hair_D_00/F_Hair_D_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/F_Hair_D_00/F_Hair_D_01/F_Hair_D_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/L_Hair_A_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/L_Hair_A_00/L_Hair_A_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/L_Hair_A_00/L_Hair_A_01/L_Hair_A_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/L_Hair_A_00/L_Hair_A_01/L_Hair_A_02/L_Hair_A_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/L_Hair_A_00/L_Hair_A_01/L_Hair_A_02/L_Hair_A_03/L_Hair_A_04
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/L_Hair_B_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/L_Hair_B_00/L_Hair_B_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/L_Hair_B_00/L_Hair_B_01/L_Hair_B_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/L_Hair_C_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/L_Hair_C_00/L_Hair_C_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/L_Hair_C_00/L_Hair_C_01/L_Hair_C_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/R_Hair_A_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/R_Hair_A_00/R_Hair_A_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/R_Hair_A_00/R_Hair_A_01/R_Hair_A_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/R_Hair_A_00/R_Hair_A_01/R_Hair_A_02/R_Hair_A_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Hair/R_Hair_A_00/R_Hair_A_01/R_Hair_A_02/R_Hair_A_03/R_Hair_A_04
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/Darkmole_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/Darkmole_00/Darkmole_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_B_Eyelash_A00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_B_Eyelash_A00/L_B_Eyelash_A01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_B_Eyelash_B00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_B_Eyelash_B00/L_B_Eyelash_B01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_A00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_A00/L_Eyelash_A01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_B00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_B00/L_Eyelash_B01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_C00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_C00/L_Eyelash_C01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_D00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_D00/L_Eyelash_D01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_E00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_E00/L_Eyelash_E01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_F00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_F00/L_Eyelash_F01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_G00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_G00/L_Eyelash_G01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_H00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_H00/L_Eyelash_H01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_I00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_I00/L_Eyelash_I01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_J00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_J00/L_Eyelash_J01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_K00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_K00/L_Eyelash_K01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_L00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_L00/L_Eyelash_L01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_M00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_M00/L_Eyelash_M01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_N00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_N00/L_Eyelash_N01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_O00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_O00/L_Eyelash_O01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_P00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_P00/L_Eyelash_P01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_Q00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_Q00/L_Eyelash_Q01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_R00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_R00/L_Eyelash_R01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_S00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_S00/L_Eyelash_S01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_T00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_T00/L_Eyelash_T01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_U00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_U00/L_Eyelash_U01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_V00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eye/L_Eyelash_V00/L_Eyelash_V01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eyebrow_A00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eyebrow_A00/L_Eyebrow_A01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eyebrow_B00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eyebrow_B00/L_Eyebrow_B01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eyelid_A00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eyelid_A00/L_Eyelid_A01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eyelid_B00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Eyelid_B00/L_Eyelid_B01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Face_Parts_A00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Face_Parts_A00/L_Face_Parts_A01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Face_Parts_B00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Face_Parts_B00/L_Face_Parts_B01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Face_Parts_C00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Face_Parts_C00/L_Face_Parts_C01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Hair_Ribbon_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Hair_Ribbon_00/L_Hair_Ribbon_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/L_Hair_Ribbon_00/L_Hair_Ribbon_01/L_Hair_Ribbon_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/B_InnerMouth_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/B_InnerMouth_00/B_InnerMouth_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/B_Teeth_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/B_Teeth_00/B_Teeth_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/B_Teeth_00/B_Teeth_01/B_L_Teeth_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/B_Teeth_00/B_Teeth_01/B_L_Teeth_00/B_L_Teeth_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/B_Teeth_00/B_Teeth_01/B_R_Teeth_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/B_Teeth_00/B_Teeth_01/B_R_Teeth_00/B_R_Teeth_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/L_InnerMouth_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/L_InnerMouth_00/L_InnerMouth_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/C_B_Lip_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/C_B_Lip_00/C_B_Lip_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/C_U_Lip_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/C_U_Lip_00/C_U_Lip_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/L_B_Lip_A00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/L_B_Lip_A00/L_B_Lip_A01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/L_B_Lip_B00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/L_B_Lip_B00/L_B_Lip_B01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/L_B_Lip_C00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/L_B_Lip_C00/L_B_Lip_C01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/L_B_Lip_D00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/L_B_Lip_D00/L_B_Lip_D01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/L_Lip_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/L_Lip_00/L_Lip_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/L_U_Lip_A00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/L_U_Lip_A00/L_U_Lip_A01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/L_U_Lip_B00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/L_U_Lip_B00/L_U_Lip_B01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/L_U_Lip_C00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/L_U_Lip_C00/L_U_Lip_C01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/L_U_Lip_D00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/L_U_Lip_D00/L_U_Lip_D01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/R_B_Lip_A00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/R_B_Lip_A00/R_B_Lip_A01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/R_B_Lip_B00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/R_B_Lip_B00/R_B_Lip_B01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/R_B_Lip_C00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/R_B_Lip_C00/R_B_Lip_C01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/R_B_Lip_D00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/R_B_Lip_D00/R_B_Lip_D01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/R_Lip_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/R_Lip_00/R_Lip_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/R_U_Lip_A00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/R_U_Lip_A00/R_U_Lip_A01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/R_U_Lip_B00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/R_U_Lip_B00/R_U_Lip_B01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/R_U_Lip_C00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/R_U_Lip_C00/R_U_Lip_C01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/R_U_Lip_D00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Lip00/Lip01/R_U_Lip_D00/R_U_Lip_D01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/R_InnerMouth_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/R_InnerMouth_00/R_InnerMouth_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Tongue_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Tongue_00/Tongue_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Tongue_00/Tongue_01/Tongue_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Tongue_00/Tongue_01/Tongue_02/Tongue_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Tongue_00/Tongue_01/Tongue_02/Tongue_03/Tongue_04
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/Tongue_00/Tongue_01/Tongue_02/Tongue_03/Tongue_04/Tongue_05
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/U_InnerMouth_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/U_InnerMouth_00/U_InnerMouth_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/U_Teeth_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/U_Teeth_00/U_Teeth_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/U_Teeth_00/U_Teeth_01/U_L_Teeth_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/U_Teeth_00/U_Teeth_01/U_L_Teeth_00/U_L_Teeth_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/U_Teeth_00/U_Teeth_01/U_R_Teeth_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/Mouth_00/Mouth_01/U_Teeth_00/U_Teeth_01/U_R_Teeth_00/U_R_Teeth_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_B_Eyelash_A00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_B_Eyelash_A00/R_B_Eyelash_A01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_B_Eyelash_B00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_B_Eyelash_B00/R_B_Eyelash_B01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_A00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_A00/R_Eyelash_A01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_B00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_B00/R_Eyelash_B01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_C00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_C00/R_Eyelash_C01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_D00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_D00/R_Eyelash_D01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_E00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_E00/R_Eyelash_E01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_F00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_F00/R_Eyelash_F01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_G00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_G00/R_Eyelash_G01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_H00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_H00/R_Eyelash_H01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_I00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_I00/R_Eyelash_I01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_J00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_J00/R_Eyelash_J01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_K00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_K00/R_Eyelash_K01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_L00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_L00/R_Eyelash_L01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_M00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_M00/R_Eyelash_M01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_N00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_N00/R_Eyelash_N01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_O00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_O00/R_Eyelash_O01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_P00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_P00/R_Eyelash_P01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_Q00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_Q00/R_Eyelash_Q01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_R00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_R00/R_Eyelash_R01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_S00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_S00/R_Eyelash_S01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_T00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_T00/R_Eyelash_T01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_U00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_U00/R_Eyelash_U01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_V00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eye/R_Eyelash_V00/R_Eyelash_V01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eyebrow_A00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eyebrow_A00/R_Eyebrow_A01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eyebrow_B00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eyebrow_B00/R_Eyebrow_B01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eyelid_A00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eyelid_A00/R_Eyelid_A01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eyelid_B00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Eyelid_B00/R_Eyelid_B01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Face_Parts_A00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Face_Parts_A00/R_Face_Parts_A01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Face_Parts_B00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Face_Parts_B00/R_Face_Parts_B01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Face_Parts_C00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Face_Parts_C00/R_Face_Parts_C01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Hair_Ribbon_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Hair_Ribbon_00/R_Hair_Ribbon_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Head/R_Hair_Ribbon_00/R_Hair_Ribbon_01/R_Hair_Ribbon_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Neck_Twist
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/Neck/Neck_Twist_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Breast_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Breast_00/R_Breast_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Clavicle_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Clavicle_00/R_Clavicle_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Clavicle_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Deltroid_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Deltroid_00/R_Deltroid_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Deltroid_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Arm_Twist
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_Elbow_Twist_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_Elbow_Twist_00/R_Elbow_Twist_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_Hand
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_Hand/R_IndexProximal
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_Hand/R_IndexProximal/R_IndexIntermediate
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_Hand/R_IndexProximal/R_IndexIntermediate/R_IndexDistal
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_Hand/R_IndexProximal/R_IndexIntermediate/R_IndexDistal/R_IndexDistal_End
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_Hand/R_LittleFinger_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_Hand/R_LittleFinger_00/R_LittleFinger_00_End
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_Hand/R_LittleFinger_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_Hand/R_LittleProximal
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_Hand/R_LittleProximal/R_LittleIntermediate
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_Hand/R_LittleProximal/R_LittleIntermediate/R_LittleDistal
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_Hand/R_LittleProximal/R_LittleIntermediate/R_LittleDistal/R_LittleDistal_End
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_Hand/R_MiddleProximal
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_Hand/R_MiddleProximal/R_MiddleIntermediate
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_Hand/R_MiddleProximal/R_MiddleIntermediate/R_MiddleDistal
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_Hand/R_MiddleProximal/R_MiddleIntermediate/R_MiddleDistal/R_MiddleDistal_End
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_Hand/R_RingProximal
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_Hand/R_RingProximal/R_RingIntermediate
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_Hand/R_RingProximal/R_RingIntermediate/R_RingDistal
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_Hand/R_RingProximal/R_RingIntermediate/R_RingDistal/R_RingDistal_End
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_Hand/R_ThumbProximal
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_Hand/R_ThumbProximal/R_ThumbIntermediate
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_Hand/R_ThumbProximal/R_ThumbIntermediate/R_ThumbDistal
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_Hand/R_ThumbProximal/R_ThumbIntermediate/R_ThumbDistal/R_ThumbDistal_End
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_Hand_Sub_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_Hand_Sub_00/R_Hand_Sub_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Hand_Joint
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Hand_Joint/R_MB_Hand
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Hand_Joint/R_MB_Hand/R_MB_IndexFinger_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Hand_Joint/R_MB_Hand/R_MB_IndexFinger_01/R_MB_IndexFinger_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Hand_Joint/R_MB_Hand/R_MB_IndexFinger_01/R_MB_IndexFinger_02/R_MB_IndexFinger_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Hand_Joint/R_MB_Hand/R_MB_IndexFinger_01/R_MB_IndexFinger_02/R_MB_IndexFinger_03/R_MB_IndexFinger_End
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Hand_Joint/R_MB_Hand/R_MB_LittleFinger_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Hand_Joint/R_MB_Hand/R_MB_LittleFinger_00/R_MB_LittleFinger_00_End
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Hand_Joint/R_MB_Hand/R_MB_LittleFinger_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Hand_Joint/R_MB_Hand/R_MB_LittleFinger_01/R_MB_LittleFinger_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Hand_Joint/R_MB_Hand/R_MB_LittleFinger_01/R_MB_LittleFinger_02/R_MB_LittleFinger_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Hand_Joint/R_MB_Hand/R_MB_LittleFinger_01/R_MB_LittleFinger_02/R_MB_LittleFinger_03/R_MB_LittleFinger_End
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Hand_Joint/R_MB_Hand/R_MB_LittleFinger_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Hand_Joint/R_MB_Hand/R_MB_MiddleFinger_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Hand_Joint/R_MB_Hand/R_MB_MiddleFinger_01/R_MB_MiddleFinger_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Hand_Joint/R_MB_Hand/R_MB_MiddleFinger_01/R_MB_MiddleFinger_02/R_MB_MiddleFinger_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Hand_Joint/R_MB_Hand/R_MB_MiddleFinger_01/R_MB_MiddleFinger_02/R_MB_MiddleFinger_03/R_MB_MiddleFinger_End
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Hand_Joint/R_MB_Hand/R_MB_RingFinger_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Hand_Joint/R_MB_Hand/R_MB_RingFinger_01/R_MB_RingFinger_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Hand_Joint/R_MB_Hand/R_MB_RingFinger_01/R_MB_RingFinger_02/R_MB_RingFinger_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Hand_Joint/R_MB_Hand/R_MB_RingFinger_01/R_MB_RingFinger_02/R_MB_RingFinger_03/R_MB_RingFinger_End
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Hand_Joint/R_MB_Hand/R_MB_Thumb_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Hand_Joint/R_MB_Hand/R_MB_Thumb_01/R_MB_Thumb_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Hand_Joint/R_MB_Hand/R_MB_Thumb_01/R_MB_Thumb_02/R_MB_Thumb_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Hand_Joint/R_MB_Hand/R_MB_Thumb_01/R_MB_Thumb_02/R_MB_Thumb_03/R_MB_Thumb_End
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Joint_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Joint_01/R_MB_joint_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Joint_01/R_MB_joint_02/R_MB_Joint_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Joint_01/R_MB_joint_02/R_MB_Joint_03/R_MB_Joint_04
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Joint_01/R_MB_joint_02/R_MB_Joint_03/R_MB_Joint_04/R_MB_Joint_05
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Joint_01/R_MB_joint_02/R_MB_Joint_03/R_MB_Joint_04/R_MB_Joint_05/R_MB_Joint_06
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Joint_A_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Joint_A_01/R_MB_Joint_A_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Joint_A_01/R_MB_Joint_A_02/R_MB_Parts_06
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Joint_B_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Joint_B_01/R_MB_Joint_B_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Joint_C_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Joint_C_01/R_MB_Joint_C_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Joint_C_01/R_MB_Joint_C_02/R_MB_Joint_C_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Parts_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Parts_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Parts_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Parts_04
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Parts_05
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Parts_07
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Parts_07/R_MB_Parts_08
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Parts_09
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow/R_MB/R_MB_Parts_10
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow_Sub
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow_Sub/R_Elbow_sub_A_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow_Sub/R_Elbow_sub_A_00/R_Elbow_sub_A_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow_Sub/R_Elbow_sub_A_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow_Sub/R_Elbow_sub_B_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow_Sub/R_Elbow_sub_B_00/R_Elbow_sub_B_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow_Sub/R_Elbow_sub_B_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow_Sub/R_Elbow_sub_C_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow_Sub/R_Elbow_sub_C_00/R_Elbow_sub_C_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Elbow_Sub/R_Elbow_sub_C_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_MB_Arm_Twist
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Sleeve_Twist
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Sleeve_Twist/R_Arm_Ribbon_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Sleeve_Twist/R_Arm_Ribbon_00/R_Arm_Ribbon_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Sleeve_Twist/R_Arm_Ribbon_00/R_Arm_Ribbon_01/R_Arm_Ribbon_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Sleeve_Twist/R_Arm_Ribbon_00/R_Arm_Ribbon_01/R_Arm_Ribbon_02/R_Arm_Ribbon_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Sleeve_Twist/R_Sleeve_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Sleeve_Twist/R_Sleeve_00/R_Sleeve_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm/R_Sleeve_Twist/R_Sleeve_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Arm_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Shoulder_Sub_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Shoulder_Sub_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Sleeve_Sub_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder/R_Underarm_Sub_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Shoulder_Sub_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_ShoulderBlade_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_ShoulderBlade_00/R_ShoulderBlade_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_ShoulderBlade_Dummy
+    m_Weight: 0
+  - m_Path: Hips/Spine/Chest/R_Sleeve_Sub_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Ribbon_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Ribbon_00/Ribbon_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Ribbon_00/Ribbon_01/L_Ribbon_A_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Ribbon_00/Ribbon_01/L_Ribbon_A_00/L_Ribbon_A_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Ribbon_00/Ribbon_01/L_Ribbon_B_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Ribbon_00/Ribbon_01/L_Ribbon_B_00/L_Ribbon_B_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Ribbon_00/Ribbon_01/L_Ribbon_B_00/L_Ribbon_B_01/L_Ribbon_B_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Ribbon_00/Ribbon_01/L_Ribbon_B_00/L_Ribbon_B_01/L_Ribbon_B_02/L_Ribbon_B_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Ribbon_00/Ribbon_01/L_Ribbon_B_00/L_Ribbon_B_01/L_Ribbon_B_02/L_Ribbon_B_03/L_Ribbon_B_04
+    m_Weight: 0
+  - m_Path: Hips/Spine/Ribbon_00/Ribbon_01/R_Ribbon_A_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Ribbon_00/Ribbon_01/R_Ribbon_A_00/R_Ribbon_A_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Ribbon_00/Ribbon_01/R_Ribbon_B_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Ribbon_00/Ribbon_01/R_Ribbon_B_00/R_Ribbon_B_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Ribbon_00/Ribbon_01/R_Ribbon_B_00/R_Ribbon_B_01/R_Ribbon_B_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Ribbon_00/Ribbon_01/R_Ribbon_B_00/R_Ribbon_B_01/R_Ribbon_B_02/R_Ribbon_B_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Ribbon_00/Ribbon_01/R_Ribbon_B_00/R_Ribbon_B_01/R_Ribbon_B_02/R_Ribbon_B_03/R_Ribbon_B_04
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/B_Skirt_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/B_Skirt_00/B_Skirt_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/B_Skirt_00/B_Skirt_01/B_Skirt_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/B_Skirt_00/B_Skirt_01/B_Skirt_02/B_Skirt_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/B_Skirt_00/B_Skirt_01/B_Skirt_02/B_Skirt_03/B_Skirt_04
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/B_Skirt_00/B_Skirt_01/B_Skirt_02/B_Skirt_03/B_Skirt_04/B_Skirt_05
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/B_Skirt_00/B_Skirt_01/B_Skirt_02/B_Skirt_03/B_Skirt_04/B_Skirt_05/B_Skirt_06
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/B_Skirt_00/B_Skirt_01/B_Skirt_02/B_Skirt_03/B_Skirt_04/B_Skirt_05/B_Skirt_06/B_Skirt_07
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/B_Skirt_00/B_Skirt_01/B_Skirt_02/B_Skirt_03/B_Skirt_04/B_Skirt_05/B_Skirt_06/B_Skirt_07/B_Skirt_08
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/BL_Skirt_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/BL_Skirt_00/BL_Skirt_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/BL_Skirt_00/BL_Skirt_01/BL_Skirt_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/BL_Skirt_00/BL_Skirt_01/BL_Skirt_02/BL_Skirt_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/BL_Skirt_00/BL_Skirt_01/BL_Skirt_02/BL_Skirt_03/BL_Skirt_04
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/BL_Skirt_00/BL_Skirt_01/BL_Skirt_02/BL_Skirt_03/BL_Skirt_04/BL_Skirt_05
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/BL_Skirt_00/BL_Skirt_01/BL_Skirt_02/BL_Skirt_03/BL_Skirt_04/BL_Skirt_05/BL_Skirt_06
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/BL_Skirt_00/BL_Skirt_01/BL_Skirt_02/BL_Skirt_03/BL_Skirt_04/BL_Skirt_05/BL_Skirt_06/BL_Skirt_07
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/BL_Skirt_00/BL_Skirt_01/BL_Skirt_02/BL_Skirt_03/BL_Skirt_04/BL_Skirt_05/BL_Skirt_06/BL_Skirt_07/BL_Skirt_08
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/BR_Skirt_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/BR_Skirt_00/BR_Skirt_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/BR_Skirt_00/BR_Skirt_01/BR_Skirt_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/BR_Skirt_00/BR_Skirt_01/BR_Skirt_02/BR_Skirt_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/BR_Skirt_00/BR_Skirt_01/BR_Skirt_02/BR_Skirt_03/BR_Skirt_04
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/BR_Skirt_00/BR_Skirt_01/BR_Skirt_02/BR_Skirt_03/BR_Skirt_04/BR_Skirt_05
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/BR_Skirt_00/BR_Skirt_01/BR_Skirt_02/BR_Skirt_03/BR_Skirt_04/BR_Skirt_05/BR_Skirt_06
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/BR_Skirt_00/BR_Skirt_01/BR_Skirt_02/BR_Skirt_03/BR_Skirt_04/BR_Skirt_05/BR_Skirt_06/BR_Skirt_07
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/BR_Skirt_00/BR_Skirt_01/BR_Skirt_02/BR_Skirt_03/BR_Skirt_04/BR_Skirt_05/BR_Skirt_06/BR_Skirt_07/BR_Skirt_08
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/F_Skirt_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/F_Skirt_00/F_Skirt_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/F_Skirt_00/F_Skirt_01/F_Skirt_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/F_Skirt_00/F_Skirt_01/F_Skirt_02/F_Skirt_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/F_Skirt_00/F_Skirt_01/F_Skirt_02/F_Skirt_03/F_Skirt_04
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/F_Skirt_00/F_Skirt_01/F_Skirt_02/F_Skirt_03/F_Skirt_04/F_Skirt_05
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/F_Skirt_00/F_Skirt_01/F_Skirt_02/F_Skirt_03/F_Skirt_04/F_Skirt_05/F_Skirt_06
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/F_Skirt_00/F_Skirt_01/F_Skirt_02/F_Skirt_03/F_Skirt_04/F_Skirt_05/F_Skirt_06/F_Skirt_07
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/F_Skirt_00/F_Skirt_01/F_Skirt_02/F_Skirt_03/F_Skirt_04/F_Skirt_05/F_Skirt_06/F_Skirt_07/F_Skirt_08
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/FL_Skirt_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/FL_Skirt_00/FL_Skirt_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/FL_Skirt_00/FL_Skirt_01/FL_Skirt_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/FL_Skirt_00/FL_Skirt_01/FL_Skirt_02/FL_Skirt_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/FL_Skirt_00/FL_Skirt_01/FL_Skirt_02/FL_Skirt_03/FL_Skirt_04
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/FL_Skirt_00/FL_Skirt_01/FL_Skirt_02/FL_Skirt_03/FL_Skirt_04/FL_Skirt_05
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/FL_Skirt_00/FL_Skirt_01/FL_Skirt_02/FL_Skirt_03/FL_Skirt_04/FL_Skirt_05/FL_Skirt_06
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/FL_Skirt_00/FL_Skirt_01/FL_Skirt_02/FL_Skirt_03/FL_Skirt_04/FL_Skirt_05/FL_Skirt_06/FL_Skirt_07
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/FL_Skirt_00/FL_Skirt_01/FL_Skirt_02/FL_Skirt_03/FL_Skirt_04/FL_Skirt_05/FL_Skirt_06/FL_Skirt_07/FL_Skirt_08
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/FR_Skirt_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/FR_Skirt_00/FR_Skirt_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/FR_Skirt_00/FR_Skirt_01/FR_Skirt_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/FR_Skirt_00/FR_Skirt_01/FR_Skirt_02/FR_Skirt_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/FR_Skirt_00/FR_Skirt_01/FR_Skirt_02/FR_Skirt_03/FR_Skirt_04
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/FR_Skirt_00/FR_Skirt_01/FR_Skirt_02/FR_Skirt_03/FR_Skirt_04/FR_Skirt_05
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/FR_Skirt_00/FR_Skirt_01/FR_Skirt_02/FR_Skirt_03/FR_Skirt_04/FR_Skirt_05/FR_Skirt_06
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/FR_Skirt_00/FR_Skirt_01/FR_Skirt_02/FR_Skirt_03/FR_Skirt_04/FR_Skirt_05/FR_Skirt_06/FR_Skirt_07
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/FR_Skirt_00/FR_Skirt_01/FR_Skirt_02/FR_Skirt_03/FR_Skirt_04/FR_Skirt_05/FR_Skirt_06/FR_Skirt_07/FR_Skirt_08
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/L_Skirt_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/L_Skirt_00/L_Skirt_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/L_Skirt_00/L_Skirt_01/L_Skirt_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/L_Skirt_00/L_Skirt_01/L_Skirt_02/L_Skirt_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/L_Skirt_00/L_Skirt_01/L_Skirt_02/L_Skirt_03/L_Skirt_04
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/L_Skirt_00/L_Skirt_01/L_Skirt_02/L_Skirt_03/L_Skirt_04/L_Skirt_05
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/L_Skirt_00/L_Skirt_01/L_Skirt_02/L_Skirt_03/L_Skirt_04/L_Skirt_05/L_Skirt_06
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/L_Skirt_00/L_Skirt_01/L_Skirt_02/L_Skirt_03/L_Skirt_04/L_Skirt_05/L_Skirt_06/L_Skirt_07
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/L_Skirt_00/L_Skirt_01/L_Skirt_02/L_Skirt_03/L_Skirt_04/L_Skirt_05/L_Skirt_06/L_Skirt_07/L_Skirt_08
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/L_Skirt_Plate
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/L_Skirt_Plate/L_Skirt_Plate_A_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/L_Skirt_Plate/L_Skirt_Plate_A_00/L_Skirt_Plate_A_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/L_Skirt_Plate/L_Skirt_Plate_B_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/L_Skirt_Plate/L_Skirt_Plate_B_00/L_Skirt_Plate_B_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/L_Skirt_Plate/L_Skirt_Plate_C_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/L_Skirt_Plate/L_Skirt_Plate_C_00/L_Skirt_Plate_C_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/L_Skirt_Plate/L_Skirt_Plate_D_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/L_Skirt_Plate/L_Skirt_Plate_D_00/L_Skirt_Plate_D_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/L_Skirt_Plate/L_Skirt_Plate_E_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/L_Skirt_Plate/L_Skirt_Plate_E_00/L_Skirt_Plate_E_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/LB_Skirt_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/LB_Skirt_00/LB_Skirt_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/LB_Skirt_00/LB_Skirt_01/LB_Skirt_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/LB_Skirt_00/LB_Skirt_01/LB_Skirt_02/LB_Skirt_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/LB_Skirt_00/LB_Skirt_01/LB_Skirt_02/LB_Skirt_03/LB_Skirt_04
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/LB_Skirt_00/LB_Skirt_01/LB_Skirt_02/LB_Skirt_03/LB_Skirt_04/LB_Skirt_05
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/LB_Skirt_00/LB_Skirt_01/LB_Skirt_02/LB_Skirt_03/LB_Skirt_04/LB_Skirt_05/LB_Skirt_06
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/LB_Skirt_00/LB_Skirt_01/LB_Skirt_02/LB_Skirt_03/LB_Skirt_04/LB_Skirt_05/LB_Skirt_06/LB_Skirt_07
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/LB_Skirt_00/LB_Skirt_01/LB_Skirt_02/LB_Skirt_03/LB_Skirt_04/LB_Skirt_05/LB_Skirt_06/LB_Skirt_07/LB_Skirt_08
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/LF_Skirt_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/LF_Skirt_00/LF_Skirt_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/LF_Skirt_00/LF_Skirt_01/LF_Skirt_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/LF_Skirt_00/LF_Skirt_01/LF_Skirt_02/LF_Skirt_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/LF_Skirt_00/LF_Skirt_01/LF_Skirt_02/LF_Skirt_03/LF_Skirt_04
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/LF_Skirt_00/LF_Skirt_01/LF_Skirt_02/LF_Skirt_03/LF_Skirt_04/LF_Skirt_05
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/LF_Skirt_00/LF_Skirt_01/LF_Skirt_02/LF_Skirt_03/LF_Skirt_04/LF_Skirt_05/LF_Skirt_06
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/LF_Skirt_00/LF_Skirt_01/LF_Skirt_02/LF_Skirt_03/LF_Skirt_04/LF_Skirt_05/LF_Skirt_06/LF_Skirt_07
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/LF_Skirt_00/LF_Skirt_01/LF_Skirt_02/LF_Skirt_03/LF_Skirt_04/LF_Skirt_05/LF_Skirt_06/LF_Skirt_07/LF_Skirt_08
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/R_Skirt_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/R_Skirt_00/R_Skirt_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/R_Skirt_00/R_Skirt_01/R_Skirt_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/R_Skirt_00/R_Skirt_01/R_Skirt_02/R_Skirt_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/R_Skirt_00/R_Skirt_01/R_Skirt_02/R_Skirt_03/R_Skirt_04
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/R_Skirt_00/R_Skirt_01/R_Skirt_02/R_Skirt_03/R_Skirt_04/R_Skirt_05
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/R_Skirt_00/R_Skirt_01/R_Skirt_02/R_Skirt_03/R_Skirt_04/R_Skirt_05/R_Skirt_06
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/R_Skirt_00/R_Skirt_01/R_Skirt_02/R_Skirt_03/R_Skirt_04/R_Skirt_05/R_Skirt_06/R_Skirt_07
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/R_Skirt_00/R_Skirt_01/R_Skirt_02/R_Skirt_03/R_Skirt_04/R_Skirt_05/R_Skirt_06/R_Skirt_07/R_Skirt_08
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/R_Skirt_Plate
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/R_Skirt_Plate/R_Skirt_Plate_A_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/R_Skirt_Plate/R_Skirt_Plate_A_00/R_Skirt_Plate_A_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/R_Skirt_Plate/R_Skirt_Plate_B_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/R_Skirt_Plate/R_Skirt_Plate_B_00/R_Skirt_Plate_B_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/R_Skirt_Plate/R_Skirt_Plate_C_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/R_Skirt_Plate/R_Skirt_Plate_C_00/R_Skirt_Plate_C_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/R_Skirt_Plate/R_Skirt_Plate_D_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/R_Skirt_Plate/R_Skirt_Plate_D_00/R_Skirt_Plate_D_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/R_Skirt_Plate/R_Skirt_Plate_E_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/R_Skirt_Plate/R_Skirt_Plate_E_00/R_Skirt_Plate_E_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/RB_Skirt_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/RB_Skirt_00/RB_Skirt_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/RB_Skirt_00/RB_Skirt_01/RB_Skirt_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/RB_Skirt_00/RB_Skirt_01/RB_Skirt_02/RB_Skirt_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/RB_Skirt_00/RB_Skirt_01/RB_Skirt_02/RB_Skirt_03/RB_Skirt_04
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/RB_Skirt_00/RB_Skirt_01/RB_Skirt_02/RB_Skirt_03/RB_Skirt_04/RB_Skirt_05
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/RB_Skirt_00/RB_Skirt_01/RB_Skirt_02/RB_Skirt_03/RB_Skirt_04/RB_Skirt_05/RB_Skirt_06
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/RB_Skirt_00/RB_Skirt_01/RB_Skirt_02/RB_Skirt_03/RB_Skirt_04/RB_Skirt_05/RB_Skirt_06/RB_Skirt_07
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/RB_Skirt_00/RB_Skirt_01/RB_Skirt_02/RB_Skirt_03/RB_Skirt_04/RB_Skirt_05/RB_Skirt_06/RB_Skirt_07/RB_Skirt_08
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/RF_Skirt_00
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/RF_Skirt_00/RF_Skirt_01
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/RF_Skirt_00/RF_Skirt_01/RF_Skirt_02
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/RF_Skirt_00/RF_Skirt_01/RF_Skirt_02/RF_Skirt_03
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/RF_Skirt_00/RF_Skirt_01/RF_Skirt_02/RF_Skirt_03/RF_Skirt_04
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/RF_Skirt_00/RF_Skirt_01/RF_Skirt_02/RF_Skirt_03/RF_Skirt_04/RF_Skirt_05
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/RF_Skirt_00/RF_Skirt_01/RF_Skirt_02/RF_Skirt_03/RF_Skirt_04/RF_Skirt_05/RF_Skirt_06
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/RF_Skirt_00/RF_Skirt_01/RF_Skirt_02/RF_Skirt_03/RF_Skirt_04/RF_Skirt_05/RF_Skirt_06/RF_Skirt_07
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/RF_Skirt_00/RF_Skirt_01/RF_Skirt_02/RF_Skirt_03/RF_Skirt_04/RF_Skirt_05/RF_Skirt_06/RF_Skirt_07/RF_Skirt_08
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/Skirt_Col
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/Skirt_Col/F_Skirt_Col
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/Skirt_Col/FL_Skirt_Col
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/Skirt_Col/FR_Skirt_Col
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/Skirt_Col/L_Skirt_Col
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/Skirt_Col/LF_Skirt_Col
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/Skirt_Col/R_Skirt_Col
+    m_Weight: 0
+  - m_Path: Hips/Spine/Skirt/Skirt_Col/RF_Skirt_Col
+    m_Weight: 0
+  - m_Path: Meshes
+    m_Weight: 0
+  - m_Path: Meshes/Acc_mesh
+    m_Weight: 0
+  - m_Path: Meshes/Body_mesh
+    m_Weight: 0
+  - m_Path: Meshes/Cloth_mesh
+    m_Weight: 0
+  - m_Path: Meshes/Collar_mesh
+    m_Weight: 0
+  - m_Path: Meshes/Face_mesh
+    m_Weight: 0
+  - m_Path: Meshes/Face_parts_mesh
+    m_Weight: 0
+  - m_Path: Meshes/Hair_mesh
+    m_Weight: 0
+  - m_Path: Meshes/HairAcc_mesh
+    m_Weight: 0
+  - m_Path: Meshes/L_Arm_mesh
+    m_Weight: 0
+  - m_Path: Meshes/L_MB_mesh
+    m_Weight: 0
+  - m_Path: Meshes/Panel_mesh
+    m_Weight: 0
+  - m_Path: Meshes/R_Arm_mesh
+    m_Weight: 0
+  - m_Path: Meshes/R_MB_mesh
+    m_Weight: 0

@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: EN_Settings_PersonalSettings
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Controller
+    icon: {fileID: 2800000, guid: d7032b8916d20804ca8a99c28bed831f, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 2dd5080f6b2a2cc4e9c8bc5980c629b1, type: 2}
+    subParameters: []
+    labels: []
+  - name: Face Select
+    icon: {fileID: 2800000, guid: 83f949482f90c414d81dfa8efa273da2, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 6a7c57d6de9b39d4a99a2997422af51f, type: 2}
+    subParameters: []
+    labels: []
+  - name: Contact Lock
+    icon: {fileID: 2800000, guid: 847f86c740dad284a93f2b3568300447, type: 3}
+    type: 102
+    parameter:
+      name: CN_CONTACT_EMOTE_LOCK_ENABLE
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: AFK Locomotion Enable
+    icon: {fileID: 2800000, guid: 44b822c693fbd174d8f994ee312dd8e4, type: 3}
+    type: 102
+    parameter:
+      name: SYNC_CN_AFK_LOCOMOTION_ENABLE
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
