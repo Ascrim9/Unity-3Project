@@ -10,6 +10,13 @@ namespace FlowerEndSummer.Common
     {
 
     }
+
+
+    public enum EffectType
+    {
+        None = -1,
+        Normal = 0,
+    }
     
     
 }

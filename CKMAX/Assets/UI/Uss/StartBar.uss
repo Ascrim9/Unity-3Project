@@ -1,0 +1,76 @@
+.menu__button {
+    flex-basis: 176px;
+    flex-direction: column;
+    align-items: center;
+    border-left-color: rgba(255, 0, 0, 0);
+    border-right-color: rgba(255, 0, 0, 0);
+    border-top-color: rgba(255, 0, 0, 0);
+    border-bottom-color: rgba(255, 0, 0, 0);
+    rotate: 0;
+    border-top-width: 0;
+    display: flex;
+    visibility: visible;
+    background-image: url('project://database/Assets/UI/Texture/UI%20icons/boxbox.png?fileID=21300000&guid=5d1f418291b92be4790e26a23fe71183&type=3#boxbox');
+    -unity-background-image-tint-color: rgb(175, 255, 255);
+    background-color: rgba(0, 0, 0, 0);
+    transition-duration: 0.5s;
+    transition-property: flex-basis;
+    transition-timing-function: ease-out-bounce;
+    letter-spacing: 50px;
+    margin-left: -2px;
+}
+
+.menu__button:active {
+    flex-basis: 273px;
+    flex-direction: column;
+    align-items: center;
+    border-left-color: rgba(255, 0, 0, 0);
+    border-right-color: rgba(255, 0, 0, 0);
+    border-top-color: rgba(255, 0, 0, 0);
+    border-bottom-color: rgba(255, 0, 0, 0);
+    rotate: 0;
+    color: rgb(229, 44, 44);
+    width: 247px;
+    height: 567px;
+}
+
+.menu__button:hover .menu--label {
+    flex-basis: auto;
+    flex-direction: column;
+    align-items: center;
+    border-left-color: rgba(255, 0, 0, 0);
+    border-right-color: rgba(255, 0, 0, 0);
+    border-top-color: rgba(255, 0, 0, 0);
+    border-bottom-color: rgba(255, 0, 0, 0);
+    rotate: 0;
+    border-top-width: 13px;
+    display: flex;
+    visibility: visible;
+    height: auto;
+    font-size: 19px;
+    top: 19px;
+}
+
+.menu__button:hover {
+    flex-basis: 300px;
+    flex-direction: column;
+    align-items: center;
+    border-left-color: rgba(255, 0, 0, 0);
+    border-right-color: rgba(255, 0, 0, 0);
+    border-top-color: rgba(255, 0, 0, 0);
+    border-bottom-color: rgba(255, 0, 0, 0);
+    rotate: 0;
+    border-top-width: 13px;
+    display: flex;
+    visibility: visible;
+    height: 30%;
+}
+
+.menu--label {
+    visibility: hidden;
+    -unity-font: url('project://database/Assets/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=bb666ec53575b334d892f7ee68ef1ce2&type=3#NotInter-Regular');
+    -unity-font-style: italic;
+    top: 3px;
+    display: flex;
+    -unity-font-definition: initial;
+}
